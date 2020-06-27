@@ -16,4 +16,4 @@ PyYAML==5.1
 six==1.11.0
 unicode==2.6
 Unidecode==1.1.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
